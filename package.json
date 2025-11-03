@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/singhvibhanshu/re-verce#readme",
   "dependencies": {
+    "@types/cors": "^2.8.19",
     "@types/express": "^5.0.5",
     "aws-sdk": "^2.1692.0",
     "cors": "^2.8.5",
